@@ -21,7 +21,7 @@ The following data visualization were used in the Data story prepared for this p
 
 The data results have shown that bike sharing is more popular to male bike users than female.
 
-[**Bike Usage by User Type by Gender by Weekday**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGenderbyeachHouroftheDay)
+[**Bike Usage by User Type by Gender by Weekday**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGender)
 
 - For Subscribers: Thursday for all genders
 - For Non-Subscribers(Customers): Thursday for Male and Female, Saturday for unknown gender
