@@ -21,7 +21,7 @@ The following data visualization were used in the Data story prepared for this p
 
 The data results have shown that bike sharing is more popular to male bike users than female.
 
-[**Bike Usage by User Type by Gender by Weekday**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGender)
+[**Bike Usage by User Type by Gender by Weekday**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGenderbyeachHouroftheDay)
 
 - For Subscribers: Thursday for all genders
 - For Non-Subscribers(Customers): Thursday for Male and Female, Saturday for unknown gender
@@ -33,7 +33,7 @@ The data results have shown that bike sharing is more popular to male bike users
 - The daily peak hours for bike trips are at 5:00PM and 6:00PM and 8:00 AM. 
 - There are more bike trips during the afternoon work commute than the morning work commute.  
 
-[**Bike Usage by Gender for each day of the Week and Hour of the Day**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGenderbyeachHouroftheDay)
+[**Bike Usage by Gender for each day of the Week and Hour of the Day**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGender)
 
 - For both females and males, the most bike trips happen on Thursday at 6:00 PM. 
 - For the unknown gender, the most bike trips happen on Saturday at 12:00 PM. The peak hours for bikes trips are from 11:00 AM to 6 PM. 
