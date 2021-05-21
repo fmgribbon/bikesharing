@@ -6,20 +6,21 @@
 This project creates data visualization for Citi bike share trip data in New York City. The visualization will be presented to investors to influence their decision to invest in a startup bike share program in Des Moines. 
 ## Results
 The following data visualization were used in the Data story prepared for this project. 
-- A data visualization based on the August 2019 Trip history data. 
+A data visualization based on the August 2019 Trip history data. 
   
  [**Citi Bike Trips Data for August 2019**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/TotalTrips)
  
- There are a total of 2,344,224 bike trips in August 2019.
+- There are a total of 2,344,224 bike trips in August 2019.
  
 
  [**Bike Usage(Bike Trip Duration)**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/CheckoutTimesforUsers)
  
- The 5-6 min bike trips had the most bike count. After 6 mins bike trips, the bike count decreases as the trip duration gets longer.
+- The 5-6 min bike trips had the most bike count. After 6 mins bike trips, the bike count decreases as the trip duration gets longer.
 
 [**Bike Usage(Bike Trip Duration) by Gender**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/CheckoutTimesbyGender)
 
-The data results have shown that bike sharing is more popular to male bike users than female.
+- The data results have shown that the 5-6 min bike trips had the most bike counts for male and female and 9 mins for unknown gender. 
+- Bike sharing is more popular to male bike users than female.
 
 [**Bike Usage by User Type by Gender by Weekday**](https://public.tableau.com/profile/maria.gribbon#!/vizhome/CitiBikeStoryNYC/NumberofBikeTripsbyGenderbyeachHouroftheDay)
 
